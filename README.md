@@ -73,7 +73,7 @@ npm run dev
 MP3, WAV, FLAC, M4A, OGG, AIFF · 최대 100MB · 최대 10분
 
 ## 성능
-- CPU 전용: 3~5분짜리 곡 기준 약 5~15분
+- CPU 전용: 3-5분짜리 곡 기준 약 5-15분
 - GPU(CUDA) 있는 경우: 1~3분
 
 ---
